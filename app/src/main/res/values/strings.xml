@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">banimode</string>
+    <string name="title_home">خانه</string>
+    <string name="title_category">دسته بندی ها</string>
+    <string name="title_basket">سبد خرید</string>
+    <string name="title_profile">پروفایل</string>
+    <string name="no_internet_connection">اتصال اینترنتی برقرار نیست:)</string>
+    <string name="check_your_internet_connection_and_try_again">اتصال اینترنتی خو را چک کنید و مجددا تلاش کنید</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="app_version">نسخه </string>
+    <string name="title_see_all">مشاهده همه </string>
+    <string name="title_amazing">شگفت‌انگـــــیز‌ها</string>
+    <string name="title_remaining">باقی‌مانده: </string>
+    <string name="title_percentage">%</string>
+    <string name="title_Selected_brands">برندهای برگزیده</string>
+    <string name="title_best_seller">پرفروش‌های بانی مد</string>
+    <string name="title_show_more">نمایش بیشتر …</string>
+    <string name="title_show_less">نمایش کمتر …</string>
+    <string name="title_app">بانی مد</string>
+    <string name="title_colors">رنگ ها :</string>
+    <string name="title_sizes">سایز :</string>
+    <string name="title_add_basket">افزودن به سبد خرید</string>
+    <string name="add_basket">محصول به سبد خرید اضافه شد ✅</string>
+    <string name="not_found_color">رنگی برای این محصول موجود نیست ❌</string>
+    <string name="non_existent">ناموجود</string>
+    <string name="user_comments">نظر کاربران</string>
+    <string name="product_review">بررسی محصول</string>
+    <string name="specifications">مشخصات</string>
+    <string name="user_comments_is_empty">بخش نظرات کاربران در حال حاضر خالی است.</string>
+    <string name="no_specifications_for_product">مشخصاتی برای این محصول ثبت نشده است.</string>
+    <string name="no_description">توضیحی برای محصول موجود نیست</string>
+    <string name="seller_response">پاسخ فروشنده</string>
+    <string name="no_features">ویژگی برای این محصول ذکر نشده</string>
+    <string name="similar_products">محصولات مشابه</string>
+    <string name="Select_category">یک دسته را انتخاب کنید.</string>
+    <string name="All_goods">همه کالاهای </string>
+    <string name="empty_basket">سبد خرید شما خالی است.</string>
+    <string name="Join_community">به جمع بانی‌مدی‌ها بپیوندید</string>
+    <string name="discounts">و از تخفیف‌ها زودتر از سایرین باخبر شوید</string>
+    <string name="Login_Register">ورود / ثبت‌ نام</string>
+    <string name="message">پیام‌ها</string>
+    <string-array name="menu_items">
+        <item>راهنمای خرید</item>
+        <item>شرایط بازگشت کالا</item>
+        <item>پرسش‌های متداول</item>
+        <item>قوانین و مقررات</item>
+        <item>درباره بانی‌مد</item>
+        <item>تماس با ما</item>
+    </string-array>
+
+</resources>
